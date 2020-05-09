@@ -80,6 +80,7 @@ A crowd-sourced collection of tips for Swift developers.
 
 #### [**Terminal / CLI**](#terminal-cli)
 - [Open an Xcode project with xed](https://twitter.com/scotteg/status/1257757872026460163?s=20)
+- [Open an Xcode project/workspace with open](https://twitter.com/PaulSolt/status/1258210368985468928?s=20)
 
 #### [**Miscellaneous**](#miscellaneous)
 - [Create beautiful images of source code to share](https://carbon.now.sh/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=dracula&wt=none&l=swift&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false)
