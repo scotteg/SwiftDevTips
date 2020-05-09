@@ -31,7 +31,6 @@ A crowd-sourced collection of tips for Swift developers.
 ## [The Tips](the-tips)
 
 ### [Swift](#swift)
-- 
 
 #### [General Swift](#general-swift)
 - 
