@@ -84,6 +84,7 @@ A crowd-sourced collection of tips for Swift developers.
 
 #### [**Miscellaneous**](#miscellaneous)
 - [Create beautiful images of source code to share](https://carbon.now.sh/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=dracula&wt=none&l=swift&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false)
+- [Get formatted code to paste into presentation slides](https://twitter.com/scotteg/status/1259501161402503169?s=20)
 
 ---
 
