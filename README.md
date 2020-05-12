@@ -71,6 +71,7 @@ A crowd-sourced collection of tips for Swift developers.
 #### [Xcode](#xcode)
 - [Easily find balancing braces and hide/show code](https://twitter.com/scotteg/status/1255916101638201344?s=20)
 - [Move selected lines keyboard shortcut](https://twitter.com/scotteg/status/1215275498152087553?s=20)
+- [Do the Derived Data Dance to solve a surprisingly large number of problems](#http://deriveddata.dance)
 
 #### [Instruments](#instruments)
 - 
@@ -91,3 +92,4 @@ A crowd-sourced collection of tips for Swift developers.
 ## [Got a Tip?](got-a-tip)
 
 Great! Please review and follow the [Contributing Guidelines](CONTRIBUTING.md) to share your tip.
+x
