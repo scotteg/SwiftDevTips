@@ -58,6 +58,9 @@ There are two kinds of tips you may be interested to submit:
         - Double-click on a curly brace to highlight the enclosed content.
 - **The tip is greater than 140 characters**
     - Create a new Markdown file in `/Tips`.
+    - Create a parent folder if your tip will include additional assets.
+    <br>*Example:*
+![](Assets/TipFolder.png)
     - Write your tip in a succinct and easy to read format. Feel free to use pictures or videos, however, please optimize visual content for quick loading and optimal viewing. In most cases, this will be downsizing content to a max width of 2400 pixels. For example, a full-size screenshot of your Xcode window on a 15" MacBook Pro in default resolution is currently 3360 x 2100. This should be downsized to 2400 x 1500.
     - Feel free to include one link to your preferred online identity, social media, portfolio, etc. 
     <br>*Example:*
@@ -71,5 +74,5 @@ There are two kinds of tips you may be interested to submit:
         Enable the code-folding ribbon to easily find balanced braces and hide/show code. You can also double-click on a folded code ellipsis marker (⋯) to unfold it.
         ![](AnimatedGIFDemonstratingThisCoolTip.gif)
         
-        Submited by [@scotteg](https://twitter.com/scotteg)
+        Submited by [@scotteg](https://twitter.com/scotteg).
         ```
