@@ -74,6 +74,7 @@ A crowd-sourced collection of tips for Swift developers.
 - [Do the Derived Data Dance to solve a surprisingly large number of problems](http://deriveddata.dance)
 
 #### [Instruments](#instruments)
+- [Profile slow SwiftUI code](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts)
 - 
 
 #### [Simulator](#simulator)
