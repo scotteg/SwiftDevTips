@@ -11,8 +11,7 @@
     l = log --graph --all --decorate --pretty=format:'%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
 	#logg = log --abbrev-commit --all --decorate --graph --oneline
     s = status
-    showw = show --pretty --name-only
-    statuss = status -u
+    shw = show --pretty --name-only
 ```
 
 Now you can use these aliases to reduce the number of keystrokes to do some of the most common actions in Git. And you'll also get nicely formatted, syntax-highlighted log graphs.
