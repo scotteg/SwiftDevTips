@@ -74,6 +74,7 @@ A crowd-sourced collection of tips for Swift developers.
 - [Do the Derived Data Dance to solve a surprisingly large number of problems](http://deriveddata.dance)
 - [Open file in target editor](https://twitter.com/scotteg/status/1250486906091114501?s=20)
 - [Run without building](https://twitter.com/DonnyWals/status/1215196512851984385?s=20)
+- [Multiple cursors](https://twitter.com/dsteppenbeck/status/1258783540277383169?s=20)
 
 #### [Instruments](#instruments)
 - [Profile slow SwiftUI code](https://www.hackingwithswift.com/quick-start/swiftui/how-to-use-instruments-to-profile-your-swiftui-code-and-identify-slow-layouts)
